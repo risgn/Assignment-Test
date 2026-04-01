@@ -12,9 +12,10 @@ Riski Assignment test
 1. Installed Cursor IDE
 2. Installed Claude Code and Codex extensions
 3. Created a GitHub account and repository
-4. Opened the repository in Cursor
-5. Edited existing README.md file
-6. Committed and pushed changes to GitHub
+4. Installed GitHub for Desktop
+5. Opened the repository in Cursor
+6. Edited existing README.md file
+7. Committed and pushed changes to GitHub
 
 ## Issues & Solutions
 - Issue: I was confused because README.md already existed  
@@ -23,5 +24,7 @@ Riski Assignment test
 - Issue: Confused opening repository in Cursor  
   Solution: Used “Open Folder” after cloning
 
+- Issue: I can't push change to GitHub
+  Solution: Installed GitHub Desktop
 ## Notes
 This project helped me understand how to set up tools and use GitHub for version control.
