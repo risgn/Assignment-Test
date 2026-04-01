@@ -26,5 +26,6 @@ Riski Assignment test
 
 - Issue: I can't push change to GitHub
   Solution: Installed GitHub for desktop
+
 ## Notes
 This project helped me understand how to set up tools and use GitHub for version control.
